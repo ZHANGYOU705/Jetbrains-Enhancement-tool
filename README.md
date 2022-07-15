@@ -3,16 +3,16 @@ Jetbrains系列产品增强工具
 
 
 # 支持的产品
-IntelliJ IDEA
-AppCode
-CLion
-DataGrip
-GoLand
-PhpStorm
-PyCharm
-Rider
-RubyMine
-WebStorm
+- IntelliJ IDEA
+- AppCode
+- CLion
+- DataGrip
+- GoLand
+- PhpStorm
+- PyCharm
+- Rider
+- RubyMine
+- WebStorm
 
 ## 下面是国际惯例：
 
